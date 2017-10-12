@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ALHatfield/all-the-news-that-fits-to-scrape.git"
+    "url": "git+https://github.com/TJLack/scraper"
   },
   "author": "",
   "license": "ISC",
